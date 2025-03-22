@@ -30,4 +30,5 @@ Konstruktives Feedback und Fehlermeldungen sind immer erwünscht, bei Anliegen k
 
 [exercise1](exercise1.md): Es wurde der Umgang mit der Markdown Syntax geübt.
 [exercise2](exercise2.md): Es wurden verschiedene Git Befehle kurz beschrieben.
+[exercise2_part2](exercise2_part2.md): Es wurde ein GitHub Projekt kurz beschrieben.
 
