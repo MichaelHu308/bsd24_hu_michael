@@ -25,4 +25,5 @@ Durch Eingabe der Ganzzahl 9 wird das Programm beendet.
 
 Konstruktives Feedback und Fehlermeldungen sind immer erwünscht, bei Anliegen können Sie mich gerne kontaktieren.
 
-[excercise1](..\Rar$DIa15520.47552.rartemp\exercise1.md)
+[exercise1](exercise1.md): Es wurde der Umgang mit der Markdown Syntax geübt.
+[exercise2](exercise2.md): Es wurden verschiedene Git Befehle kurz beschrieben.
