@@ -1,5 +1,8 @@
 ﻿# Encryption
 
+- [GitHub Profilseite](https://github.com/MichaelHu308)
+- [Meine Hochschule](https://www.campus02.at/)
+
 ## Beschreibung
 
 Dieses Java Programm ver- bzw. entschlüsselt eingegebenen Text. Buchstaben (A-Z, a-z) und Ziffern (0-9) werden dabei um eine bestimmte Anzahl rotiert werden. Z.B. würde bei einer angegeben Rotation von drei Stellen der Buchstabe A zu D werden, der Buchstabe b zu e, die Ziffer 3 zu 6. Bei der Entschlüsselung werden Buchstaben und Ziffern um die angegebenen Stellen in die entgegengesetzte Richtung rotiert.
@@ -27,3 +30,4 @@ Konstruktives Feedback und Fehlermeldungen sind immer erwünscht, bei Anliegen k
 
 [exercise1](exercise1.md): Es wurde der Umgang mit der Markdown Syntax geübt.
 [exercise2](exercise2.md): Es wurden verschiedene Git Befehle kurz beschrieben.
+
