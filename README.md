@@ -1,0 +1,28 @@
+﻿# Encryption
+
+## Beschreibung
+
+Dieses Java Programm ver- bzw. entschlüsselt eingegebenen Text. Buchstaben (A-Z, a-z) und Ziffern (0-9) werden dabei um eine bestimmte Anzahl rotiert werden. Z.B. würde bei einer angegeben Rotation von drei Stellen der Buchstabe A zu D werden, der Buchstabe b zu e, die Ziffer 3 zu 6. Bei der Entschlüsselung werden Buchstaben und Ziffern um die angegebenen Stellen in die entgegengesetzte Richtung rotiert.
+
+## Installation
+
+Für die Ausführung des Programms wird die Java Runtime Environment (JRE) und das File Encryption.java benötigt.
+
+## Anleitung
+
+Es existiert ein Menü zur Steuerung des Programms. Folgende Befehle  können durch Eingabe entsprechender Ganzzahlen ausgeführt werden: 
+
+ - **1 - Encrypt text**
+Durch Eingabe der Ganzzahl 1 wird eine Textverschlüsselung eingeleitet.
+
+ - **2 - Decrypt text**
+Durch Eingabe der Ganzzahl 2 wird eine Textentschlüsselung eingeleitet.
+
+ - **9 - Quit**
+Durch Eingabe der Ganzzahl 9 wird das Programm beendet.
+
+## Möglichkeiten der Mitarbeit
+
+Konstruktives Feedback und Fehlermeldungen sind immer erwünscht, bei Anliegen können Sie mich gerne kontaktieren.
+
+[excercise1](..\Rar$DIa15520.47552.rartemp\exercise1.md)
