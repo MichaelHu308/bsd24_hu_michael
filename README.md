@@ -29,6 +29,11 @@ Durch Eingabe der Ganzzahl 9 wird das Programm beendet.
 Konstruktives Feedback und Fehlermeldungen sind immer erwünscht, bei Anliegen können Sie mich gerne kontaktieren.
 
 [exercise1](exercise1.md): Es wurde der Umgang mit der Markdown Syntax geübt.
+
 [exercise2](exercise2.md): Es wurden verschiedene Git Befehle kurz beschrieben.
+
 [exercise2_part2](exercise2_part2.md): Es wurde ein GitHub Projekt kurz beschrieben.
 
+[exercise3](exercise3.md): Es wurde der Umgang mit Maven gelernt und das Wissen in Git branches erweitert. Außerdem wurde die Logging Bibliothek log4j2 für Logging-Nachrichten benutzt.
+
+Passe im [log4j2.xml.template](src/main/resources/log4j2.xml.template.xml) den 'fileName' an dein System an.
