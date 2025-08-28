@@ -2,8 +2,7 @@ package at.campus02.bsd;
 
 import org.junit.jupiter.api.*;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest {
 
@@ -39,9 +38,8 @@ public class CalculatorTest {
     void testDivide() {
         assertEquals(2, calculator.divide(6, 3));
         assertEquals(-1, calculator.divide(-2, 2));
-        assertThrows(ArithmeticException.class, () -> {
-            calculator.divide(5, 0);
-        });
+        double result = calculator.divide(7, 0);
+        assertTrue(Double.isInfinite(result));
     }
 
     @Test
